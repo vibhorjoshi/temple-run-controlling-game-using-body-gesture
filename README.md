@@ -2,9 +2,6 @@
 
 This project demonstrates a novel way to control the Temple Run game using body gestures captured via a webcam. Using computer vision and machine learning techniques, the script detects specific poses and translates them into keyboard inputs to control the game.
 
-## Video Demo
-[![Watch the video](path_to_thumbnail)](path_to_your_video)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Technology Stack](#technology-stack)
